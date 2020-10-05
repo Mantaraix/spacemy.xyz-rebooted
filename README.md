@@ -33,3 +33,6 @@ this is a project just for experimenting with php. u can contribute if there are
 
 ## thanks to
 everyone who has helped me web dev
+
+# did you know
+the bios loads the bootloader at 0x7c00
